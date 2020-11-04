@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/Ho3einj16/Mr.Johari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am hossein johari.
+I am studying computer engineering at PNU University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Hossein
+- Last Name: Johari
+- Birth Date: 1999/02/14
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ ICDL1
 
-- Bulleted
-- List
++ ICDL2
 
-1. Numbered
-2. List
++ C++
 
-**Bold** and _Italic_ and `Code` text
++ C+
 
-[Link](url) and ![Image](src)
-```
+### Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Persian(Advanced)
 
-### Jekyll Themes
+- English(Normal)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ho3einj16/Mr.Johari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Licenses & Certifications
 
-### Support or Contact
+- ICDL1
+- ICDL2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Working Experience
+
+- Hesabdari
+
+- khadamat sakht afzar computer
+
+### Titles and Honors
+  nothing
+
+### Other Accounts
+  nothing
+  
+  Persian Resume: <a href=""> Resume </a>
