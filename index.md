@@ -45,4 +45,4 @@ I am studying computer engineering at PNU University.
 ### Other Accounts
   nothing
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://ho3einj16.github.io/resume-fa.github.io/"> Resume </a>
